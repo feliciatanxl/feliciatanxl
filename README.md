@@ -64,186 +64,125 @@ I enjoy working across the product development process—from understanding user
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="24%" valign="middle">
+      <h2>FlowGuard</h2>
+      <strong>AI Smart Factory Monitoring</strong>
+    </td>
 
-<br>
+    <td width="52%" valign="middle">
+      An AI-powered facility-monitoring platform designed to improve
+      access control, safety awareness and operational visibility.
+      <br><br>
+      <strong>My contribution:</strong> Facial recognition, role-based
+      access control, user management, smart logistics and responsive
+      interface improvements.
+    </td>
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/FLOWGUARD-6C63FF?style=for-the-badge"
-    alt="FlowGuard"
-  >
-</p>
-
-<br>
-
-<h3 align="center">AI Smart Factory Monitoring</h3>
-
-<p align="center">
-  An intelligent facility-monitoring platform that improves
-  access control, safety awareness and operational visibility.
-</p>
-
-<br>
-
-<strong>My contribution</strong>
-
-<p>
-  Facial recognition, role-based access control, user management,
-  smart logistics and responsive interface improvements.
-</p>
-
-<br>
-
-<p align="center">
-  <code>React</code>
-  <code>Node.js</code>
-  <code>Python</code>
-  <code>FastAPI</code>
-</p>
-
-<br>
-
-</td>
-
-<td width="50%" valign="top">
-
-<br>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/ECHOSYNC-6C63FF?style=for-the-badge"
-    alt="EchoSync"
-  >
-</p>
-
-<br>
-
-<h3 align="center">Emergency Intelligence for Seniors</h3>
-
-<p align="center">
-  A privacy-focused monitoring ecosystem that supports seniors
-  through sensors, voice interaction and emergency alerts.
-</p>
-
-<br>
-
-<strong>My contribution</strong>
-
-<p>
-  Frontend development, UI/UX design, dashboard workflows,
-  sensor integration and caregiver-response interfaces.
-</p>
-
-<br>
-
-<p align="center">
-  <code>React</code>
-  <code>Python</code>
-  <code>Arduino</code>
-  <code>Raspberry Pi</code>
-</p>
-
-<br>
-
-</td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-<br>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/SWAPLAH-6C63FF?style=for-the-badge"
-    alt="SwapLah"
-  >
-</p>
-
-<br>
-
-<h3 align="center">Campus Marketplace & DevSecOps</h3>
-
-<p align="center">
-  A secure campus marketplace where students can buy and sell
-  pre-owned essentials through trusted account workflows.
-</p>
-
-<br>
-
-<strong>My contribution</strong>
-
-<p>
-  Full-stack feature development, account workflows,
-  automated testing, security scanning and GitLab CI/CD.
-</p>
-
-<br>
-
-<p align="center">
-  <code>Flask</code>
-  <code>SQLite</code>
-  <code>Pytest</code>
-  <code>GitLab CI/CD</code>
-</p>
-
-<br>
-
-</td>
-
-<td width="50%" valign="top">
-
-<br>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/MAKERLAB-6C63FF?style=for-the-badge"
-    alt="MakerLab"
-  >
-</p>
-
-<br>
-
-<h3 align="center">Embedded Systems Playground</h3>
-
-<p align="center">
-  A collection of hardware, IoT and embedded-system experiments
-  connecting software applications with physical devices.
-</p>
-
-<br>
-
-<strong>My contribution</strong>
-
-<p>
-  Sensor integration, Raspberry Pi applications,
-  serial communication, technical testing and documentation.
-</p>
-
-<br>
-
-<p align="center">
-  <code>Arduino</code>
-  <code>ESP32</code>
-  <code>Raspberry Pi</code>
-  <code>Python</code>
-</p>
-
-<br>
-
-</td>
+    <td width="24%" align="center" valign="middle">
+      <code>React</code>
+      <code>Node.js</code><br><br>
+      <code>Python</code>
+      <code>FastAPI</code>
+    </td>
   </tr>
 </table>
 
+<br>
+
+<table>
+  <tr>
+    <td width="24%" valign="middle">
+      <h2>EchoSync</h2>
+      <strong>Emergency Intelligence for Seniors</strong>
+    </td>
+
+    <td width="52%" valign="middle">
+      A privacy-focused emergency-monitoring ecosystem using sensors,
+      multilingual voice interaction and caregiver alerts.
+      <br><br>
+      <strong>My contribution:</strong> Frontend development, UI/UX
+      design, dashboard workflows, sensor integration and caregiver
+      response interfaces.
+    </td>
+
+    <td width="24%" align="center" valign="middle">
+      <code>React</code>
+      <code>Python</code><br><br>
+      <code>Arduino</code>
+      <code>Raspberry Pi</code>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="24%" valign="middle">
+      <h2>SwapLah</h2>
+      <strong>Campus Marketplace & DevSecOps</strong>
+    </td>
+
+    <td width="52%" valign="middle">
+      A secure campus marketplace where students can buy and sell
+      pre-owned essentials through trusted account workflows.
+      <br><br>
+      <strong>My contribution:</strong> Full-stack feature development,
+      authentication, automated testing, security scanning and GitLab
+      CI/CD implementation.
+    </td>
+
+    <td width="24%" align="center" valign="middle">
+      <code>Flask</code>
+      <code>SQLite</code><br><br>
+      <code>Pytest</code>
+      <code>GitLab CI/CD</code>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="24%" valign="middle">
+      <h2>MakerLab</h2>
+      <strong>Embedded Systems Playground</strong>
+    </td>
+
+    <td width="52%" valign="middle">
+      A collection of hardware, IoT and embedded-system experiments
+      exploring how software interacts with sensors and physical devices.
+      <br><br>
+      <strong>My contribution:</strong> Sensor integration, Raspberry Pi
+      applications, serial communication, technical testing and
+      documentation.
+    </td>
+
+    <td width="24%" align="center" valign="middle">
+      <code>Arduino</code>
+      <code>ESP32</code><br><br>
+      <code>Raspberry Pi</code>
+      <code>Python</code>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <p align="center">
   <a href="https://feliciatanxl.github.io/Portfolio/projects/">
-    <img src="https://img.shields.io/badge/Explore_Project_Case_Studies-111111?style=for-the-badge&logo=readme&logoColor=white" alt="Explore project case studies">
+    <img
+      src="https://img.shields.io/badge/Explore_All_Project_Case_Studies-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Explore all project case studies"
+    >
   </a>
 </p>
 
 <p align="center">
-  <sub>Source code and documentation are also available through my pinned repositories.</sub>
+  <sub>
+    Source code and technical documentation are available through my pinned repositories.
+  </sub>
 </p>
 
 <br>
