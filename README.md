@@ -49,28 +49,6 @@ I enjoy working across the product-development process—from understanding user
 
 <br>
 
-<p align="center">
-  <code>Frontend Development</code>
-  &nbsp;
-  <code>UI/UX Design</code>
-  &nbsp;
-  <code>Full-Stack Development</code>
-  &nbsp;
-  <code>Accessible Design</code>
-</p>
-
-<p align="center">
-  <code>Artificial Intelligence</code>
-  &nbsp;
-  <code>Internet of Things</code>
-  &nbsp;
-  <code>AWS Cloud</code>
-  &nbsp;
-  <code>DevSecOps</code>
-</p>
-
-<br>
-
 ## Selected work
 
 #### `01 / FLOWGUARD`
