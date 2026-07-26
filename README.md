@@ -66,19 +66,34 @@ I enjoy working across the product development process—from understanding user
   <tr>
     <td width="50%" valign="top">
 
+<br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/FLOWGUARD-6C63FF?style=for-the-badge&logo=probot&logoColor=white" alt="FlowGuard">
+  <img
+    src="https://img.shields.io/badge/FLOWGUARD-6C63FF?style=for-the-badge"
+    alt="FlowGuard"
+  >
 </p>
+
+<br>
 
 <h3 align="center">AI Smart Factory Monitoring</h3>
 
 <p align="center">
-  An intelligent facility-monitoring platform designed to improve access control, safety awareness and operational visibility.
+  An intelligent facility-monitoring platform that improves
+  access control, safety awareness and operational visibility.
 </p>
 
-**My contribution**
+<br>
 
-Facial recognition, role-based access control, user management, smart logistics and responsive interface improvements.
+<strong>My contribution</strong>
+
+<p>
+  Facial recognition, role-based access control, user management,
+  smart logistics and responsive interface improvements.
+</p>
+
+<br>
 
 <p align="center">
   <code>React</code>
@@ -87,23 +102,40 @@ Facial recognition, role-based access control, user management, smart logistics 
   <code>FastAPI</code>
 </p>
 
+<br>
+
 </td>
 
 <td width="50%" valign="top">
 
+<br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/ECHOSYNC-6C63FF?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white" alt="EchoSync">
+  <img
+    src="https://img.shields.io/badge/ECHOSYNC-6C63FF?style=for-the-badge"
+    alt="EchoSync"
+  >
 </p>
+
+<br>
 
 <h3 align="center">Emergency Intelligence for Seniors</h3>
 
 <p align="center">
-  A privacy-focused monitoring ecosystem that supports seniors through sensors, voice interaction and emergency alerts.
+  A privacy-focused monitoring ecosystem that supports seniors
+  through sensors, voice interaction and emergency alerts.
 </p>
 
-**My contribution**
+<br>
 
-Frontend development, UI/UX design, dashboard workflows, sensor integration and caregiver-response interfaces.
+<strong>My contribution</strong>
+
+<p>
+  Frontend development, UI/UX design, dashboard workflows,
+  sensor integration and caregiver-response interfaces.
+</p>
+
+<br>
 
 <p align="center">
   <code>React</code>
@@ -112,25 +144,42 @@ Frontend development, UI/UX design, dashboard workflows, sensor integration and 
   <code>Raspberry Pi</code>
 </p>
 
+<br>
+
 </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
 
+<br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/SWAPLAH-6C63FF?style=for-the-badge&logo=shopify&logoColor=white" alt="SwapLah">
+  <img
+    src="https://img.shields.io/badge/SWAPLAH-6C63FF?style=for-the-badge"
+    alt="SwapLah"
+  >
 </p>
+
+<br>
 
 <h3 align="center">Campus Marketplace & DevSecOps</h3>
 
 <p align="center">
-  A secure marketplace where students can buy and sell pre-owned campus essentials.
+  A secure campus marketplace where students can buy and sell
+  pre-owned essentials through trusted account workflows.
 </p>
 
-**My contribution**
+<br>
 
-Full-stack features, account workflows, automated testing, security scanning and GitLab CI/CD implementation.
+<strong>My contribution</strong>
+
+<p>
+  Full-stack feature development, account workflows,
+  automated testing, security scanning and GitLab CI/CD.
+</p>
+
+<br>
 
 <p align="center">
   <code>Flask</code>
@@ -139,23 +188,40 @@ Full-stack features, account workflows, automated testing, security scanning and
   <code>GitLab CI/CD</code>
 </p>
 
+<br>
+
 </td>
 
 <td width="50%" valign="top">
 
+<br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/MAKERLAB-6C63FF?style=for-the-badge&logo=arduino&logoColor=white" alt="MakerLab">
+  <img
+    src="https://img.shields.io/badge/MAKERLAB-6C63FF?style=for-the-badge"
+    alt="MakerLab"
+  >
 </p>
+
+<br>
 
 <h3 align="center">Embedded Systems Playground</h3>
 
 <p align="center">
-  A collection of hardware, IoT and embedded-system experiments documenting how software interacts with physical devices.
+  A collection of hardware, IoT and embedded-system experiments
+  connecting software applications with physical devices.
 </p>
 
-**My contribution**
+<br>
 
-Sensor integration, Raspberry Pi applications, serial communication, technical testing and documentation.
+<strong>My contribution</strong>
+
+<p>
+  Sensor integration, Raspberry Pi applications,
+  serial communication, technical testing and documentation.
+</p>
+
+<br>
 
 <p align="center">
   <code>Arduino</code>
@@ -163,6 +229,8 @@ Sensor integration, Raspberry Pi applications, serial communication, technical t
   <code>Raspberry Pi</code>
   <code>Python</code>
 </p>
+
+<br>
 
 </td>
   </tr>
