@@ -4,8 +4,8 @@
 
 ### Frontend Developer · UI/UX Designer · IT Student
 
-I build practical digital experiences by combining  
-**clean interfaces, thoughtful design and reliable code.**
+I create practical digital experiences through  
+**thoughtful design, accessible interfaces and reliable code.**
 
 <br>
 
@@ -25,38 +25,38 @@ I build practical digital experiences by combining
 
 ## About me
 
-I am a Year 2 Diploma in Information Technology student at **Nanyang Polytechnic**.  
-My main interest is creating digital products that are not only functional, but also clear, accessible and pleasant to use.
+I am a Year 2 Diploma in Information Technology student at **Nanyang Polytechnic** with an interest in frontend development, UI/UX design and full-stack applications.
 
-I enjoy working across the full product process—from understanding user needs and designing interfaces to building features, testing systems and improving deployment workflows.
+I enjoy working across the product development process—from understanding user needs and designing interfaces to implementing features, testing systems and improving deployment workflows.
+
+### What I bring
+
+🎨 **Design thinking** — User-centred interfaces, prototyping and accessibility  
+💻 **Development skills** — Frontend, backend and API integration  
+🧪 **Quality mindset** — Testing, security scanning and CI/CD workflows  
+🤝 **Collaboration** — Iterative development, documentation and teamwork  
 
 <br>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>What I enjoy</h3>
-      Frontend development<br>
-      UI/UX design<br>
-      Accessible interfaces<br>
-      Full-stack applications
-    </td>
-    <td width="34%" valign="top">
-      <h3>What I am exploring</h3>
-      Artificial intelligence<br>
-      Internet of Things<br>
-      AWS cloud services<br>
-      DevSecOps practices
-    </td>
-    <td width="33%" valign="top">
-      <h3>How I work</h3>
-      User-centred thinking<br>
-      Iterative prototyping<br>
-      Collaborative development<br>
-      Continuous improvement
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <code>Frontend Development</code>
+  &nbsp;
+  <code>UI/UX Design</code>
+  &nbsp;
+  <code>Full-Stack Development</code>
+  &nbsp;
+  <code>Accessible Design</code>
+</p>
+
+<p align="center">
+  <code>Artificial Intelligence</code>
+  &nbsp;
+  <code>Internet of Things</code>
+  &nbsp;
+  <code>AWS Cloud</code>
+  &nbsp;
+  <code>DevSecOps</code>
+</p>
 
 <br>
 
@@ -66,32 +66,51 @@ I enjoy working across the full product process—from understanding user needs 
   <tr>
     <td width="50%" valign="top">
 
-### FlowGuard
+<p align="center">
+  <img src="https://img.shields.io/badge/FLOWGUARD-6C63FF?style=for-the-badge&logo=probot&logoColor=white" alt="FlowGuard">
+</p>
 
-AI-powered monitoring platform for manufacturing environments.
+<h3 align="center">AI Smart Factory Monitoring</h3>
 
-**My work**
-- Facial recognition and access control
-- Role-based user management
-- Smart logistics workflows
-- Responsive interface improvements
+<p align="center">
+  An intelligent facility-monitoring platform designed to improve access control, safety awareness and operational visibility.
+</p>
 
-`React` `Node.js` `Python` `FastAPI`
+**My contribution**
+
+Facial recognition, role-based access control, user management, smart logistics and responsive interface improvements.
+
+<p align="center">
+  <code>React</code>
+  <code>Node.js</code>
+  <code>Python</code>
+  <code>FastAPI</code>
+</p>
 
 </td>
-    <td width="50%" valign="top">
 
-### EchoSync
+<td width="50%" valign="top">
 
-Emergency monitoring solution designed to support seniors living alone.
+<p align="center">
+  <img src="https://img.shields.io/badge/ECHOSYNC-6C63FF?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white" alt="EchoSync">
+</p>
 
-**My work**
-- Frontend and dashboard development
-- UI/UX design and prototyping
-- Sensor-to-interface integration
-- Caregiver and responder workflows
+<h3 align="center">Emergency Intelligence for Seniors</h3>
 
-`React` `Python` `Arduino` `Raspberry Pi`
+<p align="center">
+  A privacy-focused monitoring ecosystem that supports seniors through sensors, voice interaction and emergency alerts.
+</p>
+
+**My contribution**
+
+Frontend development, UI/UX design, dashboard workflows, sensor integration and caregiver-response interfaces.
+
+<p align="center">
+  <code>React</code>
+  <code>Python</code>
+  <code>Arduino</code>
+  <code>Raspberry Pi</code>
+</p>
 
 </td>
   </tr>
@@ -99,47 +118,75 @@ Emergency monitoring solution designed to support seniors living alone.
   <tr>
     <td width="50%" valign="top">
 
-### SwapLah
+<p align="center">
+  <img src="https://img.shields.io/badge/SWAPLAH-6C63FF?style=for-the-badge&logo=shopify&logoColor=white" alt="SwapLah">
+</p>
 
-Secure campus marketplace for students to buy and sell pre-owned items.
+<h3 align="center">Campus Marketplace & DevSecOps</h3>
 
-**My work**
-- Full-stack feature development
-- Authentication and listing workflows
-- Automated testing
-- CI/CD and security scanning
+<p align="center">
+  A secure marketplace where students can buy and sell pre-owned campus essentials.
+</p>
 
-`Flask` `SQLite` `Pytest` `GitLab CI/CD`
+**My contribution**
+
+Full-stack features, account workflows, automated testing, security scanning and GitLab CI/CD implementation.
+
+<p align="center">
+  <code>Flask</code>
+  <code>SQLite</code>
+  <code>Pytest</code>
+  <code>GitLab CI/CD</code>
+</p>
 
 </td>
-    <td width="50%" valign="top">
 
-### MakerLab
+<td width="50%" valign="top">
 
-A collection of hardware, IoT and embedded-system experiments.
+<p align="center">
+  <img src="https://img.shields.io/badge/MAKERLAB-6C63FF?style=for-the-badge&logo=arduino&logoColor=white" alt="MakerLab">
+</p>
 
-**My work**
-- Arduino and sensor integration
-- Raspberry Pi applications
-- Serial communication
-- Technical documentation
+<h3 align="center">Embedded Systems Playground</h3>
 
-`Arduino` `ESP32` `Raspberry Pi` `Python`
+<p align="center">
+  A collection of hardware, IoT and embedded-system experiments documenting how software interacts with physical devices.
+</p>
+
+**My contribution**
+
+Sensor integration, Raspberry Pi applications, serial communication, technical testing and documentation.
+
+<p align="center">
+  <code>Arduino</code>
+  <code>ESP32</code>
+  <code>Raspberry Pi</code>
+  <code>Python</code>
+</p>
 
 </td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>More project details and case studies are available on my portfolio and pinned repositories.</sub>
+  <a href="https://feliciatanxl.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Explore_Project_Case_Studies-111111?style=for-the-badge&logo=readme&logoColor=white" alt="Explore project case studies">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Source code and documentation are also available through my pinned repositories.</sub>
 </p>
 
 <br>
 
-## Toolbox
+## Technical toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nodejs,express,flask,mysql,git,github,gitlab,aws,figma,vscode,arduino,raspberrypi&perline=10" alt="Felicia's technical stack">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nodejs,express,flask,mysql,git,github,gitlab,aws,figma,vscode,visualstudio,arduino,raspberrypi&perline=10"
+    alt="Felicia's technical stack"
+  >
 </p>
 
 <br>
@@ -164,6 +211,7 @@ A collection of hardware, IoT and embedded-system experiments.
 <div align="center">
 
 ### Let’s build something useful.
-`Design with purpose. Build with care. Improve through iteration.`
+
+`Design with purpose · Build with care · Improve through iteration`
 
 </div>
