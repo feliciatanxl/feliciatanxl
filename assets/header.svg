@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" font-family="ui-monospace, 'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace" role="img" aria-label="Terminal window: Felicia Tan, Year 2 IT Student at Nanyang Polytechnic">
+  <title>felicia@github — about.sh</title>
+
+  <defs>
+    <clipPath id="card">
+      <rect x="3" y="3" width="780" height="380" rx="14"/>
+    </clipPath>
+    <clipPath id="nameClip">
+      <rect x="34" y="98" width="0" height="42">
+        <animate attributeName="width" from="0" to="360" begin="0.7s" dur="0.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Neo-brutalist hard shadow (purple, visible on light + dark) -->
+  <rect x="13" y="13" width="780" height="380" rx="14" fill="#6366F1"/>
+
+  <!-- Terminal card -->
+  <rect x="3" y="3" width="780" height="380" rx="14" fill="#FFFFFF" stroke="#111111" stroke-width="2.5"/>
+
+  <!-- Title bar -->
+  <g clip-path="url(#card)">
+    <rect x="3" y="3" width="780" height="46" fill="#F1F1F1"/>
+  </g>
+  <line x1="3" y1="49" x2="783" y2="49" stroke="#111111" stroke-width="2.5"/>
+  <circle cx="32" cy="26" r="7.5" fill="#FF5F56" stroke="#111111" stroke-width="1.2"/>
+  <circle cx="57" cy="26" r="7.5" fill="#FFBD2E" stroke="#111111" stroke-width="1.2"/>
+  <circle cx="82" cy="26" r="7.5" fill="#27C93F" stroke="#111111" stroke-width="1.2"/>
+  <text x="762" y="31" text-anchor="end" font-size="13" fill="#111111" opacity="0.45">bash — about.sh</text>
+
+  <!-- Body -->
+  <!-- $ whoami -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.35s" fill="freeze"/>
+    <text x="34" y="90" font-size="15.5">
+      <tspan fill="#6366F1" font-weight="700">felicia@github:~$</tspan><tspan fill="#111111"> whoami</tspan>
+    </text>
+  </g>
+
+  <!-- Name (typing wipe) -->
+  <text x="34" y="128" font-size="30" font-weight="700" fill="#6366F1" clip-path="url(#nameClip)">&lt;Felicia Tan /&gt;</text>
+
+  <!-- Role -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.35s" fill="freeze"/>
+    <text x="34" y="156" font-size="15" fill="#4B5563">Year 2 Information Technology Student @ Nanyang Polytechnic</text>
+  </g>
+
+  <!-- $ cat intro.txt -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.35s" fill="freeze"/>
+    <text x="34" y="204" font-size="15.5">
+      <tspan fill="#6366F1" font-weight="700">felicia@github:~$</tspan><tspan fill="#111111"> cat intro.txt</tspan>
+    </text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.95s" dur="0.35s" fill="freeze"/>
+    <text x="34" y="230" font-size="14" fill="#333333">Frontend developer blending clean code with UI/UX principles</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.15s" dur="0.35s" fill="freeze"/>
+    <text x="34" y="252" font-size="14" fill="#333333">to build accessible, user-centred digital products.</text>
+  </g>
+
+  <!-- $ ls skills/ -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.55s" dur="0.35s" fill="freeze"/>
+    <text x="34" y="300" font-size="15.5">
+      <tspan fill="#6366F1" font-weight="700">felicia@github:~$</tspan><tspan fill="#111111"> ls skills/</tspan>
+    </text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.9s" dur="0.35s" fill="freeze"/>
+    <text x="34" y="326" font-size="14" fill="#16A34A">html  css  js  ts  python  react  flask  figma  aws</text>
+  </g>
+
+  <!-- Prompt + blinking cursor -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="3.2s" dur="0.35s" fill="freeze"/>
+    <text x="34" y="366" font-size="15.5">
+      <tspan fill="#6366F1" font-weight="700">felicia@github:~$</tspan>
+    </text>
+    <rect x="182" y="353" width="10" height="17" fill="#111111">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1s" begin="3.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

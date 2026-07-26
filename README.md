@@ -1,24 +1,19 @@
-<h1 align="center">
-  Hello, I'm &lt;Felicia Tan /&gt; 👋
-</h1>
-
-<p align="center">
-  <strong>Year 2 Information Technology Student @ Nanyang Polytechnic</strong>
-</p>
-
-<p align="center">
-  Frontend Development · UI/UX Design · Full-Stack Development
-</p>
+<div align="center">
+  <img src="assets/header.svg" alt="Felicia Tan — Year 2 IT Student @ Nanyang Polytechnic" width="100%" />
+</div>
 
 <p align="center">
   <a href="https://feliciatanxl.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/./portfolio.sh-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/feliciatanxl/">
-    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:feliciatanxl@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/feliciatanxl">
+    <img src="https://img.shields.io/badge/github-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -28,8 +23,8 @@
 
 ```text
 I combine clean frontend development with UI/UX principles
-to build accessible, user-centred digital products that look
-good and work smoothly.
+to build accessible, user-centred digital products that
+look good and work smoothly.
 
 I enjoy turning ideas and technical requirements into
 practical solutions through code, design and experimentation.
@@ -37,34 +32,19 @@ practical solutions through code, design and experimentation.
 
 ---
 
-## `felicia@github:~$ git status`
+## `felicia@github:~$ neofetch`
 
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <strong>🎯 Focus</strong>
-      <br><br>
-      <code>Frontend Development</code><br><br>
-      <code>UI/UX Design</code><br><br>
-      <code>Full-Stack Development</code>
-    </td>
-    <td width="34%" align="center" valign="top">
-      <strong>🌱 Exploring</strong>
-      <br><br>
-      <code>Artificial Intelligence</code><br><br>
-      <code>Internet of Things</code><br><br>
-      <code>AWS Cloud</code><br><br>
-      <code>DevSecOps</code>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <strong>🚀 Building</strong>
-      <br><br>
-      <code>FlowGuard</code><br><br>
-      <code>SwapLah</code><br><br>
-      <code>MakerLab</code>
-    </td>
-  </tr>
-</table>
+```yaml
+felicia@github
+--------------------------------
+Host      : Nanyang Polytechnic — Year 2 IT
+Role      : Frontend Dev · UI/UX Design · Full-Stack
+Uptime    : Building & shipping since 2021
+Focus     : Accessible, user-centred products
+Exploring : AI · IoT · AWS Cloud · DevSecOps
+Editor    : VS Code · Figma
+Status    : Open to opportunities & collaboration
+```
 
 ---
 
@@ -72,12 +52,12 @@ practical solutions through code, design and experimentation.
 
 | Project | What I worked on | Main technologies |
 |---|---|---|
-| **FlowGuard** | Facial recognition, access control, user management and smart logistics for an AI-powered facility monitoring platform | React, Node.js, Python, FastAPI |
-| **EchoSync** | Emergency monitoring for seniors using sensors, multilingual voice interaction and caregiver alerts | React, Python, Arduino, Raspberry Pi |
-| **SwapLah** | Secure student marketplace with listings, automated testing, security scanning and CI/CD | Flask, SQLite, Pytest, Selenium, GitLab CI/CD |
-| **MakerLab** | Arduino, Raspberry Pi, IoT and hardware-software experiments | Python, C/C++, Arduino, ESP32 |
+| **FlowGuard** | Facial recognition, access control, user management and smart logistics for an AI-powered facility monitoring platform | `React` `Node.js` `Python` `FastAPI` |
+| **EchoSync** | Emergency monitoring for seniors using sensors, multilingual voice interaction and caregiver alerts | `React` `Python` `Arduino` `Raspberry Pi` |
+| **SwapLah** | Secure student marketplace with listings, automated testing, security scanning and CI/CD | `Flask` `SQLite` `Pytest` `Selenium` `GitLab CI/CD` |
+| **MakerLab** | Arduino, Raspberry Pi, IoT and hardware-software experiments | `Python` `C/C++` `Arduino` `ESP32` |
 
-> Explore my pinned repositories below for source code and documentation.
+> `# Explore my pinned repositories below for source code and documentation.`
 
 ---
 
@@ -109,6 +89,8 @@ practical solutions through code, design and experimentation.
 
 ---
 
-<p align="center">
-  <code>felicia@github:~$ Building accessible digital experiences through code and design._</code>
-</p>
+```bash
+felicia@github:~$ echo $MOTTO
+> "Building accessible digital experiences through code & design."
+felicia@github:~$ _
+```
