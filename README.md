@@ -73,125 +73,59 @@ I enjoy working across the product-development process—from understanding user
 
 ## Selected work
 
-<table>
-  <thead>
-    <tr>
-      <th width="23%" align="left">Project</th>
-      <th width="54%" align="left">Overview and contribution</th>
-      <th width="23%" align="center">Technologies</th>
-    </tr>
-  </thead>
+#### `01 / FLOWGUARD`
 
-  <tbody>
-    <tr>
-      <td valign="middle">
-        <h3>FlowGuard</h3>
-        <strong>AI Smart Factory Monitoring</strong>
-      </td>
+### AI Smart Factory Monitoring
 
-      <td valign="middle">
-        <p>
-          An AI-powered facility-monitoring platform designed to improve
-          access control, safety awareness and operational visibility.
-        </p>
-        <p>
-          <strong>My contribution:</strong><br>
-          Facial recognition, role-based access control, user management,
-          smart logistics and responsive interface improvements.
-        </p>
-      </td>
+> An AI-powered facility-monitoring platform designed to improve access control, safety awareness and operational visibility.
+>
+> **My contribution**  
+> Developed facial recognition and access-control features, role-based user management, smart logistics workflows and responsive interface improvements.
+>
+> **Technology stack**  
+> `React` `Node.js` `Python` `FastAPI`
 
-      <td align="center" valign="middle">
-        <code>React</code>
-        <code>Node.js</code>
-        <br><br>
-        <code>Python</code>
-        <code>FastAPI</code>
-      </td>
-    </tr>
+---
 
-    <tr>
-      <td valign="middle">
-        <h3>EchoSync</h3>
-        <strong>Emergency Intelligence for Seniors</strong>
-      </td>
+#### `02 / ECHOSYNC`
 
-      <td valign="middle">
-        <p>
-          A privacy-focused emergency-monitoring ecosystem using sensors,
-          multilingual voice interaction and caregiver alerts.
-        </p>
-        <p>
-          <strong>My contribution:</strong><br>
-          Frontend development, UI/UX design, dashboard workflows,
-          sensor integration and caregiver-response interfaces.
-        </p>
-      </td>
+### Emergency Intelligence for Seniors
 
-      <td align="center" valign="middle">
-        <code>React</code>
-        <code>Python</code>
-        <br><br>
-        <code>Arduino</code>
-        <code>Raspberry Pi</code>
-      </td>
-    </tr>
+> A privacy-focused emergency-monitoring ecosystem that uses sensors, multilingual voice interaction and caregiver alerts to support seniors living alone.
+>
+> **My contribution**  
+> Worked on frontend development, UI/UX design, dashboard workflows, sensor-to-interface integration and caregiver-response interfaces.
+>
+> **Technology stack**  
+> `React` `Python` `Arduino` `Raspberry Pi`
 
-    <tr>
-      <td valign="middle">
-        <h3>SwapLah</h3>
-        <strong>Campus Marketplace &amp; DevSecOps</strong>
-      </td>
+---
 
-      <td valign="middle">
-        <p>
-          A secure campus marketplace where students can buy and sell
-          pre-owned essentials through trusted account workflows.
-        </p>
-        <p>
-          <strong>My contribution:</strong><br>
-          Full-stack feature development, authentication, automated testing,
-          security scanning and GitLab CI/CD implementation.
-        </p>
-      </td>
+#### `03 / SWAPLAH`
 
-      <td align="center" valign="middle">
-        <code>Flask</code>
-        <code>SQLite</code>
-        <br><br>
-        <code>Pytest</code>
-        <code>GitLab CI/CD</code>
-      </td>
-    </tr>
+### Campus Marketplace & DevSecOps
 
-    <tr>
-      <td valign="middle">
-        <h3>MakerLab</h3>
-        <strong>Embedded Systems Playground</strong>
-      </td>
+> A secure campus marketplace where students can buy and sell pre-owned essentials through trusted account and listing workflows.
+>
+> **My contribution**  
+> Implemented full-stack features, authentication and listing workflows, automated testing, security scanning and GitLab CI/CD processes.
+>
+> **Technology stack**  
+> `Flask` `SQLite` `Pytest` `Selenium` `GitLab CI/CD`
 
-      <td valign="middle">
-        <p>
-          A collection of hardware, IoT and embedded-system experiments
-          exploring how software interacts with sensors and physical devices.
-        </p>
-        <p>
-          <strong>My contribution:</strong><br>
-          Sensor integration, Raspberry Pi applications, serial communication,
-          technical testing and documentation.
-        </p>
-      </td>
+---
 
-      <td align="center" valign="middle">
-        <code>Arduino</code>
-        <code>ESP32</code>
-        <br><br>
-        <code>Raspberry Pi</code>
-        <code>Python</code>
-      </td>
-    </tr>
-  </tbody>
-</table>
+#### `04 / MAKERLAB`
+
+### Embedded Systems Playground
+
+> A collection of hardware, IoT and embedded-system experiments exploring how software interacts with sensors and physical devices.
+>
+> **My contribution**  
+> Worked on sensor integration, Raspberry Pi applications, serial communication, technical testing and project documentation.
+>
+> **Technology stack**  
+> `Arduino` `ESP32` `Raspberry Pi` `Python`
 
 <br>
 
@@ -205,13 +139,10 @@ I enjoy working across the product-development process—from understanding user
 </p>
 
 <p align="center">
-  <sub>
-    Source code and technical documentation are available through my pinned repositories.
-  </sub>
+  <sub>Source code and technical documentation are available through my pinned repositories.</sub>
 </p>
 
 <br>
-
 ## Technical toolbox
 
 <p align="center">
