@@ -1,11 +1,13 @@
 <div align="center">
 
-# Felicia Tan
+<h1>Felicia Tan</h1>
 
-### Frontend Developer · UI/UX Designer · IT Student
+<h3>Frontend Developer · UI/UX Designer · IT Student</h3>
 
-I create practical digital experiences through  
-**thoughtful design, accessible interfaces and reliable code.**
+<p>
+  I create practical digital experiences through<br>
+  <strong>thoughtful design, accessible interfaces and reliable code.</strong>
+</p>
 
 <br>
 
@@ -72,101 +74,123 @@ I enjoy working across the product-development process—from understanding user
 ## Selected work
 
 <table>
-  <tr>
-    <td width="23%" valign="middle">
-      <h2>FlowGuard</h2>
-      <strong>AI Smart Factory Monitoring</strong>
-    </td>
+  <thead>
+    <tr>
+      <th width="23%" align="left">Project</th>
+      <th width="54%" align="left">Overview and contribution</th>
+      <th width="23%" align="center">Technologies</th>
+    </tr>
+  </thead>
 
-    <td width="54%" valign="middle">
-      An AI-powered facility-monitoring platform designed to improve
-      access control, safety awareness and operational visibility.
-      <br><br>
-      <strong>My contribution:</strong>
-      Facial recognition, role-based access control, user management,
-      smart logistics and responsive interface improvements.
-    </td>
+  <tbody>
+    <tr>
+      <td valign="middle">
+        <h3>FlowGuard</h3>
+        <strong>AI Smart Factory Monitoring</strong>
+      </td>
 
-    <td width="23%" align="center" valign="middle">
-      <code>React</code>
-      <code>Node.js</code>
-      <br><br>
-      <code>Python</code>
-      <code>FastAPI</code>
-    </td>
-  </tr>
+      <td valign="middle">
+        <p>
+          An AI-powered facility-monitoring platform designed to improve
+          access control, safety awareness and operational visibility.
+        </p>
+        <p>
+          <strong>My contribution:</strong><br>
+          Facial recognition, role-based access control, user management,
+          smart logistics and responsive interface improvements.
+        </p>
+      </td>
 
-  <tr>
-    <td valign="middle">
-      <h2>EchoSync</h2>
-      <strong>Emergency Intelligence for Seniors</strong>
-    </td>
+      <td align="center" valign="middle">
+        <code>React</code>
+        <code>Node.js</code>
+        <br><br>
+        <code>Python</code>
+        <code>FastAPI</code>
+      </td>
+    </tr>
 
-    <td valign="middle">
-      A privacy-focused emergency-monitoring ecosystem using sensors,
-      multilingual voice interaction and caregiver alerts.
-      <br><br>
-      <strong>My contribution:</strong>
-      Frontend development, UI/UX design, dashboard workflows,
-      sensor integration and caregiver-response interfaces.
-    </td>
+    <tr>
+      <td valign="middle">
+        <h3>EchoSync</h3>
+        <strong>Emergency Intelligence for Seniors</strong>
+      </td>
 
-    <td align="center" valign="middle">
-      <code>React</code>
-      <code>Python</code>
-      <br><br>
-      <code>Arduino</code>
-      <code>Raspberry Pi</code>
-    </td>
-  </tr>
+      <td valign="middle">
+        <p>
+          A privacy-focused emergency-monitoring ecosystem using sensors,
+          multilingual voice interaction and caregiver alerts.
+        </p>
+        <p>
+          <strong>My contribution:</strong><br>
+          Frontend development, UI/UX design, dashboard workflows,
+          sensor integration and caregiver-response interfaces.
+        </p>
+      </td>
 
-  <tr>
-    <td valign="middle">
-      <h2>SwapLah</h2>
-      <strong>Campus Marketplace &amp; DevSecOps</strong>
-    </td>
+      <td align="center" valign="middle">
+        <code>React</code>
+        <code>Python</code>
+        <br><br>
+        <code>Arduino</code>
+        <code>Raspberry Pi</code>
+      </td>
+    </tr>
 
-    <td valign="middle">
-      A secure campus marketplace where students can buy and sell
-      pre-owned essentials through trusted account workflows.
-      <br><br>
-      <strong>My contribution:</strong>
-      Full-stack feature development, authentication, automated testing,
-      security scanning and GitLab CI/CD implementation.
-    </td>
+    <tr>
+      <td valign="middle">
+        <h3>SwapLah</h3>
+        <strong>Campus Marketplace &amp; DevSecOps</strong>
+      </td>
 
-    <td align="center" valign="middle">
-      <code>Flask</code>
-      <code>SQLite</code>
-      <br><br>
-      <code>Pytest</code>
-      <code>GitLab CI/CD</code>
-    </td>
-  </tr>
+      <td valign="middle">
+        <p>
+          A secure campus marketplace where students can buy and sell
+          pre-owned essentials through trusted account workflows.
+        </p>
+        <p>
+          <strong>My contribution:</strong><br>
+          Full-stack feature development, authentication, automated testing,
+          security scanning and GitLab CI/CD implementation.
+        </p>
+      </td>
 
-  <tr>
-    <td valign="middle">
-      <h2>MakerLab</h2>
-      <strong>Embedded Systems Playground</strong>
-    </td>
+      <td align="center" valign="middle">
+        <code>Flask</code>
+        <code>SQLite</code>
+        <br><br>
+        <code>Pytest</code>
+        <code>GitLab CI/CD</code>
+      </td>
+    </tr>
 
-    <td valign="middle">
-      A collection of hardware, IoT and embedded-system experiments
-      exploring how software interacts with sensors and physical devices.
-      <br><br>
-      <strong>My contribution:</strong>
-      Sensor integration, Raspberry Pi applications, serial communication,
-      technical testing and documentation.
-    </td>
+    <tr>
+      <td valign="middle">
+        <h3>MakerLab</h3>
+        <strong>Embedded Systems Playground</strong>
+      </td>
 
-    <td align="center" valign="middle">
-      <code>Arduino</code>
-      <code>ESP32</code>
-      <br><br>
-      <code>Raspberry Pi</code>
-      <code>Python</code>
-    </td>
-  </tr>
+      <td valign="middle">
+        <p>
+          A collection of hardware, IoT and embedded-system experiments
+          exploring how software interacts with sensors and physical devices.
+        </p>
+        <p>
+          <strong>My contribution:</strong><br>
+          Sensor integration, Raspberry Pi applications, serial communication,
+          technical testing and documentation.
+        </p>
+      </td>
+
+      <td align="center" valign="middle">
+        <code>Arduino</code>
+        <code>ESP32</code>
+        <br><br>
+        <code>Raspberry Pi</code>
+        <code>Python</code>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <br>
@@ -239,7 +263,7 @@ I enjoy working across the product-development process—from understanding user
 
 <div align="center">
 
-### Let’s build something useful.
-`Design with purpose · Build with care · Improve through iteration`
+<h3>Let’s build something useful.</h3>
+<code>Design with purpose · Build with care · Improve through iteration</code>
 
 </div>
