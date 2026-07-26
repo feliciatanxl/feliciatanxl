@@ -169,7 +169,7 @@ Sensor integration, Raspberry Pi applications, serial communication, technical t
 </table>
 
 <p align="center">
-  <a href="https://feliciatanxl.github.io/Portfolio/">
+  <a href="https://feliciatanxl.github.io/Portfolio/projects/">
     <img src="https://img.shields.io/badge/Explore_Project_Case_Studies-111111?style=for-the-badge&logo=readme&logoColor=white" alt="Explore project case studies">
   </a>
 </p>
