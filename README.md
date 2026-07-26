@@ -2,70 +2,63 @@
   Hello, I'm &lt;Felicia Tan /&gt; 👋
 </h1>
 
-<h3 align="center">
-  Year 2 IT Student @ Nanyang Polytechnic
-</h3>
-
-<br>
+<p align="center">
+  <strong>Year 2 Information Technology Student @ Nanyang Polytechnic</strong>
+</p>
 
 <p align="center">
-  <img
-    src="./assets/about-terminal.svg"
-    width="92%"
-    alt="Felicia's animated portfolio terminal introduction"
-  />
+  Frontend Development · UI/UX Design · Full-Stack Development
 </p>
 
 <p align="center">
   <a href="https://feliciatanxl.github.io/Portfolio/">
-    <img
-      src="https://img.shields.io/badge/PORTFOLIO-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
-    />
+    <img src="https://img.shields.io/badge/PORTFOLIO-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/feliciatanxl/">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:feliciatanxl@gmail.com">
-    <img
-      src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-  <a href="https://feliciatanxl.github.io/Portfolio/assets/Resume_TanXiuLiFelicia.pdf">
-    <img
-      src="https://img.shields.io/badge/RÉSUMÉ-FFFFFF?style=for-the-badge&logo=readme&logoColor=6366F1"
-      alt="Résumé"
-    />
+    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-<h2 align="center">
-  Current <i>Focus</i>
-</h2>
+## `felicia@github:~$ cat intro.txt`
+
+```text
+I combine clean frontend development with UI/UX principles
+to build accessible, user-centred digital products that look
+good and work smoothly.
+
+I enjoy turning ideas and technical requirements into
+practical solutions through code, design and experimentation.
+```
+
+---
+
+## `felicia@github:~$ git status`
 
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>🎯 Focus</h3>
+      <strong>🎯 Focus</strong>
+      <br><br>
       <code>Frontend Development</code><br><br>
       <code>UI/UX Design</code><br><br>
       <code>Full-Stack Development</code>
     </td>
     <td width="34%" align="center" valign="top">
-      <h3>🌱 Exploring</h3>
+      <strong>🌱 Exploring</strong>
+      <br><br>
       <code>Artificial Intelligence</code><br><br>
       <code>Internet of Things</code><br><br>
       <code>AWS Cloud</code><br><br>
       <code>DevSecOps</code>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>🚀 Building</h3>
+      <strong>🚀 Building</strong>
+      <br><br>
       <code>FlowGuard</code><br><br>
       <code>SwapLah</code><br><br>
       <code>MakerLab</code>
@@ -75,123 +68,47 @@
 
 ---
 
-<h2 align="center">
-  Technical <i>Stack</i>
-</h2>
+## `felicia@github:~$ ls featured_projects/`
 
-<table align="center">
-  <tr>
-    <td align="center" width="10%">
-      <img src="https://skillicons.dev/icons?i=html" width="46" alt="HTML"><br>
-      <sub><b>HTML</b></sub>
-    </td>
-    <td align="center" width="10%">
-      <img src="https://skillicons.dev/icons?i=css" width="46" alt="CSS"><br>
-      <sub><b>CSS</b></sub>
-    </td>
-    <td align="center" width="10%">
-      <img src="https://skillicons.dev/icons?i=js" width="46" alt="JavaScript"><br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="10%">
-      <img src="https://skillicons.dev/icons?i=ts" width="46" alt="TypeScript"><br>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="10%">
-      <img src="https://skillicons.dev/icons?i=python" width="46" alt="Python"><br>
-      <sub><b>Python</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="46" alt="React"><br>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="46" alt="Node.js"><br>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask" width="46" alt="Flask"><br>
-      <sub><b>Flask</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" width="46" alt="AWS"><br>
-      <sub><b>AWS</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="46" alt="Figma"><br>
-      <sub><b>Figma</b></sub>
-    </td>
-  </tr>
-</table>
+| Project | What I worked on | Main technologies |
+|---|---|---|
+| **FlowGuard** | Facial recognition, access control, user management and smart logistics for an AI-powered facility monitoring platform | React, Node.js, Python, FastAPI |
+| **EchoSync** | Emergency monitoring for seniors using sensors, multilingual voice interaction and caregiver alerts | React, Python, Arduino, Raspberry Pi |
+| **SwapLah** | Secure student marketplace with listings, automated testing, security scanning and CI/CD | Flask, SQLite, Pytest, Selenium, GitLab CI/CD |
+| **MakerLab** | Arduino, Raspberry Pi, IoT and hardware-software experiments | Python, C/C++, Arduino, ESP32 |
+
+> Explore my pinned repositories below for source code and documentation.
+
+---
+
+## `felicia@github:~$ cat tech_stack.txt`
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,arduino,raspberrypi,mysql"
-    alt="Git, GitHub, GitLab, Visual Studio Code, Arduino, Raspberry Pi and MySQL"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nodejs,express,flask,mysql,git,github,gitlab,aws,figma,vscode,arduino,raspberrypi&perline=10"
+    alt="Felicia's technical stack"
   />
 </p>
 
 ---
 
-<h2 align="center">
-  GitHub <i>Activity</i>
-</h2>
+## `felicia@github:~$ git log --stat`
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feliciatanxl&theme=github_dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feliciatanxl&theme=default"
-    />
-    <img
-      width="49%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feliciatanxl&theme=default"
-      alt="Felicia's GitHub statistics"
-    />
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=feliciatanxl&theme=github_dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=feliciatanxl&theme=default"
-    />
-    <img
-      width="49%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=feliciatanxl&theme=default"
-      alt="Felicia's most committed languages"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=feliciatanxl&bg_color=0D1117&color=C9D1D9&line=818CF8&point=FFFFFF&area=true&hide_border=true"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=feliciatanxl&bg_color=FFFFFF&color=000000&line=6366F1&point=000000&area=true&hide_border=false"
-    />
-    <img
-      width="98%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=feliciatanxl&bg_color=FFFFFF&color=000000&line=6366F1&point=000000&area=true&hide_border=false"
-      alt="Felicia's GitHub contribution activity"
-    />
-  </picture>
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feliciatanxl&theme=github_dark"
+    alt="Felicia's GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=feliciatanxl&theme=github_dark"
+    alt="Felicia's most committed languages"
+  />
 </p>
 
 ---
 
 <p align="center">
-  <code>felicia@github:~$ Building ideas through code, design and experimentation._</code>
+  <code>felicia@github:~$ Building accessible digital experiences through code and design._</code>
 </p>
