@@ -136,37 +136,16 @@ I enjoy working across the product-development process—from understanding user
 ## GitHub overview
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feliciatanxl&theme=github_dark"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feliciatanxl&theme=default"
-    >
-    <img
-      width="48%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feliciatanxl&theme=default"
-      alt="Felicia's GitHub statistics"
-    >
-  </picture>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=feliciatanxl&theme=github_dark"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=feliciatanxl&theme=default"
-    >
-    <img
-      width="48%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=feliciatanxl&theme=default"
-      alt="Felicia's most committed languages"
-    >
-  </picture>
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=feliciatanxl&show_icons=true&theme=dark" 
+    alt="Felicia's GitHub stats" 
+  />
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliciatanxl&layout=compact&theme=dark" 
+    alt="Felicia's Top Languages" 
+  />
 </p>
 
 <br>
