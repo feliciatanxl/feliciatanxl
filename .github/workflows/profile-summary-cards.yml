@@ -21,6 +21,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          # These two lines stop the action's internal broken git push from killing the workflow
+          AUTO_PUSH: false
         continue-on-error: true
 
       - name: Commit and push generated cards
