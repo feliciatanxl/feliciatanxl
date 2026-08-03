@@ -136,16 +136,37 @@ I enjoy working across the product-development process—from understanding user
 ## GitHub overview
 
 <p align="center">
-  <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=feliciatanxl&show_icons=true&theme=dark" 
-    alt="Felicia's GitHub stats" 
-  />
-  <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliciatanxl&layout=compact&theme=dark" 
-    alt="Felicia's Top Languages" 
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile-summary-card-output/github_dark/0-profile-details.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile-summary-card-output/default/0-profile-details.svg"
+    >
+    <img
+      width="48%"
+      src="./profile-summary-card-output/default/0-profile-details.svg"
+      alt="Felicia's GitHub statistics"
+    >
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile-summary-card-output/default/2-most-commit-language.svg"
+    >
+    <img
+      width="48%"
+      src="./profile-summary-card-output/default/2-most-commit-language.svg"
+      alt="Felicia's most committed languages"
+    >
+  </picture>
 </p>
 
 <br>
