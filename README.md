@@ -139,15 +139,15 @@ I enjoy working across the product-development process—from understanding user
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./profile-summary-card-output/github_dark/0-profile-details.svg"
+      srcset="./profile-summary-card-output/github_dark/3-stats.svg"
     >
     <source
       media="(prefers-color-scheme: light)"
-      srcset="./profile-summary-card-output/default/0-profile-details.svg"
+      srcset="./profile-summary-card-output/default/3-stats.svg"
     >
     <img
       width="48%"
-      src="./profile-summary-card-output/default/0-profile-details.svg"
+      src="./profile-summary-card-output/default/3-stats.svg"
       alt="Felicia's GitHub statistics"
     >
   </picture>
