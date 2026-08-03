@@ -12,9 +12,19 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+        continue-on-error: true
+
+      - name: Commit and push generated cards
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: update profile summary cards [skip ci]"
+          file_pattern: "profile-summary-card-output/**"
