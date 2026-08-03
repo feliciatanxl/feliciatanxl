@@ -135,9 +135,6 @@ I enjoy working across the product-development process—from understanding user
 
 ## GitHub overview
 
-Awesome! Now that the workflow has executed and generated the SVG files inside your repository, here is the updated <p> block code that uses the generated Stats Card (0-profile-details.svg) on the left and the Top Languages Card (2-most-commit-language.svg) on the right:
-
-HTML
 <p align="center">
   <picture>
     <source
