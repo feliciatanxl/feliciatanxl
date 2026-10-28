@@ -199,7 +199,7 @@ Tyllage/
   Avoid using someone else's Spotify user ID: that shows their listening history.
 -->
 
-<a href="https://spotify-recently-played.jeffreyca.workers.dev/">
+<a href="![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1179603749&theme=tokyonight&count=1&width=350&footer=wave)">
   <img src="https://img.shields.io/badge/CONNECT_MY_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Connect Spotify to enable a recently played card" />
 </a>
 
