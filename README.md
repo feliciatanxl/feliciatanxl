@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=780&lines=%3E+Hello%2C+World!+I'm+Felicia+%F0%9F%91%8B;%3E+Full-Stack+Development+%7C+AI+%26+IoT;%3E+Building+technology+that+solves+real+problems;%3E+Design.+Develop.+Deploy.+Repeat." alt="Animated developer introduction" />
 </a>
 
-<br />
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=feliciatanxl&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/badge/LOCATION-SINGAPORE-172554?style=for-the-badge&logo=googlemaps&logoColor=67E8F9" alt="Singapore" />
@@ -137,6 +137,8 @@ Practical hardware-software prototypes exploring sensing, embedded programming a
 </tr>
 </table>
 
+<br/> 
+
 <div align="center">
 
 <a href="https://feliciatanxl.github.io/Portfolio/projects/"><img src="https://img.shields.io/badge/EXPLORE_PROJECT_CASE_STUDIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore project case studies" /></a>
@@ -164,8 +166,8 @@ Tyllage/
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=feliciatanxl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=feliciatanxl&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&text_color=24292F&icon_color=0891B2&include_all_commits=true" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=feliciatanxl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=feliciatanxl&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&text_color=24292F&icon_color=0891B2" alt="GitHub stats" />
 </picture>
 
 <picture>
@@ -177,9 +179,12 @@ Tyllage/
 
 <img src="https://streak-stats.demolab.com?user=feliciatanxl&theme=tokyonight&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9" alt="GitHub contribution streak" />
 
-<br /><br />
+<br />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=feliciatanxl&bg_color=0d1117&color=67e8f9&line=a78bfa&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<!-- The public third-party activity graph endpoint was unavailable. -->
+<a href="https://github.com/feliciatanxl">
+  <img src="https://img.shields.io/badge/VIEW_MY_GITHUB_CONTRIBUTIONS-161B22?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View GitHub contributions" />
+</a>
 
 </div>
 
@@ -191,22 +196,9 @@ Tyllage/
 
 🎧 **Music for the debugging sessions, late-night builds and everything in between.**
 
-<!-- SPOTIFY SETUP:
-  1. Open https://spotify-recently-played.jeffreyca.workers.dev/
-  2. Connect your Spotify account and authorize the requested permissions.
-  3. Copy the generated Markdown/SVG URL from the configurator.
-  4. Replace the PLACEHOLDER card below with your generated snippet.
-  Avoid using someone else's Spotify user ID: that shows their listening history.
--->
-
-<a href="![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1179603749&theme=tokyonight&count=1&width=350&footer=wave)">
-  <img src="https://img.shields.io/badge/CONNECT_MY_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Connect Spotify to enable a recently played card" />
+<a href="https://open.spotify.com/">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1179603749&count=1&width=350&footer=wave" alt="Felicia's Spotify recently played track" />
 </a>
-
-<!-- Once connected, insert your personalized Spotify card here. Example:
-<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=YOUR_SPOTIFY_USER_ID&theme=dark" alt="Recently played on Spotify" />
--->
-
 </div>
 
 ---
@@ -219,8 +211,6 @@ Tyllage/
 
 <a href="mailto:feliciatanxl@gmail.com"><img src="https://img.shields.io/badge/SEND_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Felicia" /></a>
 <a href="https://www.linkedin.com/in/feliciatanxl/"><img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-
-<br /><br />
 
 <sub><code>design with purpose · build with care · ship, learn, improve</code></sub>
 
