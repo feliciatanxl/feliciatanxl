@@ -181,9 +181,9 @@ Tyllage/
 <br />
 
 <!-- The public third-party activity graph endpoint was unavailable. -->
-<a href="https://github.com/feliciatanxl">
+<!-- <a href="https://github.com/feliciatanxl">
   <img src="https://img.shields.io/badge/VIEW_MY_GITHUB_CONTRIBUTIONS-161B22?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View GitHub contributions" />
-</a>
+</a> -->
 
 </div>
 
