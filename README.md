@@ -136,7 +136,7 @@ Practical hardware-software prototypes exploring sensing, embedded programming a
 </tr>
 </table>
 
-<br/> <br/>
+<br/>
 
 <div align="center">
 
@@ -178,7 +178,7 @@ Tyllage/
 
 <img src="https://streak-stats.demolab.com?user=feliciatanxl&theme=tokyonight&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9" alt="GitHub contribution streak" />
 
-<br />
+<br /><br />
 
 <!-- The public third-party activity graph endpoint was unavailable. -->
 <a href="https://github.com/feliciatanxl">
