@@ -136,7 +136,7 @@ Practical hardware-software prototypes exploring sensing, embedded programming a
 </tr>
 </table>
 
-<br/> 
+<br/> <br/>
 
 <div align="center">
 
