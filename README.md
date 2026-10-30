@@ -93,7 +93,7 @@ AI-powered monitoring and operations platform connecting access control, smart l
 **My work:** Facial recognition, RBAC, loading-bay bookings, driver verification, APIs and full-stack development.
 
 `React` `Node.js` `FastAPI` `PostgreSQL` `Docker` `Google Cloud`
-<br />
+<br /><br />
 
 </td>
 <td width="50%" valign="top">
@@ -121,7 +121,7 @@ Student marketplace for buying and selling pre-owned essentials with a focus on 
 **My work:** Authentication, listings, backend features, automated tests and security-oriented CI/CD.
 
 `Flask` `SQLite` `Pytest` `Selenium` `GitLab CI/CD`
-<br />
+<br /><br />
 
 </td>
 <td width="50%" valign="top">
@@ -134,7 +134,7 @@ Practical hardware-software prototypes exploring sensing, embedded programming a
 **My work:** Sensor integration, serial communication, Raspberry Pi applications and testing.
 
 `Arduino` `ESP32` `Raspberry Pi` `Python`
-<br />
+<br /><br />
 
 </td>
 </tr>
