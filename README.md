@@ -101,7 +101,7 @@ AI-powered monitoring and operations platform connecting access control, smart l
 #### `02 / ECHOSYNC`
 **Emergency Intelligence for Seniors**
 
-Privacy-conscious senior-assistance ecosystem integrating sensor signals, multilingual voice interaction, alerts and caregiver support.
+Privacy-conscious senior-assistance ecosystem integrating real-time sensors, multilingual voice interaction, AI-powered emergency detection, automated alerts and caregiver support.
 
 **My work:** Team leadership, interface design, sensor integration, Edge AI and caregiver workflows.
 
