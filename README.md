@@ -103,8 +103,6 @@ AI-powered monitoring and operations platform connecting access control, smart l
 
 Privacy-conscious senior-assistance ecosystem integrating sensor signals, multilingual voice interaction, alerts and caregiver support.
 
-<br />
-
 **My work:** Team leadership, interface design, sensor integration, Edge AI and caregiver workflows.
 
 `TypeScript` `Python` `Azure AI` `Arduino` `Raspberry Pi`
