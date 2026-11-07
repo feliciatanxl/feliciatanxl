@@ -174,8 +174,15 @@ Tyllage/
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=feliciatanxl&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliciatanxl&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&text_color=24292F" alt="Most-used repository languages" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=feliciatanxl&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9"
+  />
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=feliciatanxl&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&text_color=24292F"
+    alt="Most-used repository languages"
+  />
 </picture>
 
 <br />
