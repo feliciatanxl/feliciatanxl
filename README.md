@@ -168,15 +168,19 @@ Tyllage/
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=feliciatanxl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=feliciatanxl&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&text_color=24292F&icon_color=0891B2" alt="GitHub stats" />
-</picture>
+<!-- GitHub Stats — Always Dark -->
+<img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api?username=feliciatanxl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA"
+  alt="Felicia's GitHub Stats"
+/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=feliciatanxl&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliciatanxl&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&text_color=24292F" alt="Most-used repository languages" />
-</picture>
+<!-- Top Languages — Always Dark -->
+<img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=feliciatanxl&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9"
+  alt="Felicia's Most Used Languages"
+/>
 
 <br />
 
