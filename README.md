@@ -168,30 +168,25 @@ Tyllage/
 
 <div align="center">
 
-<!-- GitHub Stats — Always Dark -->
-<img
-  height="170"
-  src="https://github-stats-extended.vercel.app/api?username=feliciatanxl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA"
-  alt="Felicia's GitHub Stats"
-/>
+<p>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=feliciatanxl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA"
+    height="170"
+    alt="Felicia's GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=feliciatanxl&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9"
+    height="170"
+    alt="Felicia's Most Used Languages"
+  />
+</p>
 
-<!-- Top Languages — Always Dark -->
-<img
-  height="170"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=feliciatanxl&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9"
-  alt="Felicia's Most Used Languages"
-/>
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=feliciatanxl&theme=tokyonight&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9" alt="GitHub contribution streak" />
-
-<br />
-
-<!-- The public third-party activity graph endpoint was unavailable. -->
-<!-- <a href="https://github.com/feliciatanxl">
-  <img src="https://img.shields.io/badge/VIEW_MY_GITHUB_CONTRIBUTIONS-161B22?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View GitHub contributions" />
-</a> -->
+<p>
+  <img
+    src="https://streak-stats.demolab.com?user=feliciatanxl&theme=tokyonight&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
 </div>
 
