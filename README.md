@@ -159,7 +159,7 @@ SoLeaf/
 ├── sales-and-orders/         # Customer and operator workflows
 ├── ai-assistant/             # WhatsApp support and human escalation
 ├── inventory-and-insights/   # Stock visibility and decision support
-└── farm-pilots/              # Tyllage — MEOD Farm / Tyllage — ComCrop
+└── farm-pilots/              # SoLeaf + Farms
 ```
 
 ---
