@@ -33,7 +33,7 @@
 ```typescript
 const felicia = {
   education: "Diploma in Information Technology @ Nanyang Polytechnic",
-  roles: ["Full-Stack Developer", "AI & IoT Builder", "Founder @ Tyllage"],
+  roles: ["Full-Stack Developer", "AI & IoT Builder", "Founder @ SoLeaf"],
   interests: ["Software Engineering", "Product Design", "Cloud", "DevSecOps"],
   approach: "Understand the problem → Design → Build → Test → Improve",
   currentFocus: "Building useful, accessible and reliable digital products",
@@ -42,7 +42,7 @@ const felicia = {
 
 I'm a **Year 2 Information Technology student at Nanyang Polytechnic** who enjoys building software from idea to deployment. My work spans **full-stack applications, AI-powered workflows, IoT prototypes and UI/UX design**. I care about practical engineering, intuitive user experiences, and turning complex problems into useful products.
 
-- 🚀 **Founder of [Tyllage](https://github.com/Tyllage)** — building AI-enabled sales and customer operations tools for Singapore farms.
+- 🚀 **Founder of [SoLeaf](https://github.com/SoLeaf-SG)** — building AI-enabled sales and customer operations tools for Singapore farms.
 - 🧠 **Exploring** applied AI, cloud architecture, secure development and real-world automation.
 - 🛠️ **Comfortable across the stack** — interface design, APIs, databases, testing and deployment.
 - 🤝 **Open to** meaningful collaborations, learning opportunities and interesting engineering challenges.
@@ -150,12 +150,12 @@ Practical hardware-software prototypes exploring sensing, embedded programming a
 
 ---
 
-### `> ./startup --name Tyllage`
+### `> ./startup --name SoLeaf`
 
-**[Tyllage](https://github.com/Tyllage)** is an AgriTech software initiative focused on helping local farms improve sales, customer operations and digital workflows. We're exploring **AI-assisted customer service, order management, inventory visibility and customer engagement** through farm pilots.
+**[SoLeaf](https://github.com/SoLeaf-SG)** is an AgriTech software initiative focused on helping local farms improve sales, customer operations and digital workflows. We're exploring **AI-assisted customer service, order management, inventory visibility and customer engagement** through farm pilots.
 
 ```text
-Tyllage/
+SoLeaf/
 ├── sales-and-orders/         # Customer and operator workflows
 ├── ai-assistant/             # WhatsApp support and human escalation
 ├── inventory-and-insights/   # Stock visibility and decision support
